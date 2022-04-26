@@ -28,3 +28,8 @@
 ## GIT
 
 [bitte klicken Sie hier](https://education.github.com/git-cheat-sheet-education.pdf "GIT CHEAT SHEET")
+
+
+## GIT BEFEHLE ( ich habe nicht bemerkt dass die Aufgabe als nächste Schritt war, :P)
+
+[bite klicken Sie nochmal hier für GIT Befehle](https://education.github.com/git-cheat-sheet-education.pdf "GIT CHEAT SHEET")
